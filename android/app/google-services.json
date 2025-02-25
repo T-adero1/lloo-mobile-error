@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851215965679",
+    "project_id": "lloo-mobile-staging",
+    "storage_bucket": "lloo-mobile-staging.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851215965679:android:d6166f32a15e2e71c9aa1a",
+        "android_client_info": {
+          "package_name": "ai.collectivememory.lloo_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wiS37GJdy6l0e9nwr8vYGK6gUJ7Pke8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "lloo-mobile-staging",
+          "appId": "1:851215965679:android:d6166f32a15e2e71c9aa1a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "lloo-mobile-staging",
+          "appId": "1:851215965679:ios:48497005173b0600c9aa1a",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "lloo-mobile-staging",
+          "configurations": {
+            "android": "1:851215965679:android:d6166f32a15e2e71c9aa1a",
+            "ios": "1:851215965679:ios:48497005173b0600c9aa1a"
+          }
+        }
+      }
+    }
+  }
+}
